@@ -1,4 +1,4 @@
-# INST126-Project-1-SIS
+# Basic Calculator 
 
 
 ## Main Description of Code
